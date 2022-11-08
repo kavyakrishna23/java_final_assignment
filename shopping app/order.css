@@ -1,0 +1,28 @@
+.green{
+    background-color: rgb(8, 186, 8);
+    height: 120px;
+    width: 120px;
+    margin-top: 200px;
+    margin-left: 610px;
+    border-radius: 60px;
+}
+.fa-check{
+    /* background-color: red; */
+    margin-top: 40px;
+    margin-left: 35px;
+    font-size: 50px;
+color: white;
+}
+.message{
+     /* background-color: brown; */
+     width: 400px;
+     margin-left: 460px;
+     justify-content: center;
+     justify-items: center;
+     padding-left: 40px;
+     word-spacing: 3px;
+}
+h3{
+    font-weight: 40px;
+    margin-left: 30px;
+}
